@@ -39,9 +39,7 @@
 
 <br/>  
 
-<div align="center">
-![trophy](https://github-profile-trophy.vercel.app/?username=SunXin121)
-</div>  
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SunXin121" /> </div>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=SunXin121&&style=flat-square" align="center" />
