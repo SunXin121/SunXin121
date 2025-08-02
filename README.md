@@ -39,4 +39,10 @@
 
 <br/>  
 
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">
+![trophy](https://github-profile-trophy.vercel.app/?username=SunXin121)
+</div>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=SunXin121&&style=flat-square" align="center" />
+</div>  
