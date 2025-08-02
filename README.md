@@ -20,6 +20,10 @@
     <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px 15px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="40" /></a>  
     <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px 15px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="40" /></a>  
     <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px 15px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="40" /></a>  
+  </div>
+  
+  <!-- 第二行 -->
+  <div style="margin-bottom: 20px;">
     <a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px 15px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="40" /></a>  
     <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px 15px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="40" /></a>  
     <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px 15px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" /></a>  
@@ -28,12 +32,12 @@
     <a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px 15px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="40" /></a>  
     <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px 15px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" /></a>  
     <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px 15px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="40" /></a>  
-  </div>
-  
-  <!-- 第二行 -->
-  <div>
     <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px 15px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="40" /></a>  
     <a href="https://redis.io/" target="_blank"><img style="margin: 10px 15px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="40" /></a>  
+  </div>
+  
+  <!-- 第三行 -->
+  <div>
     <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html" target="_blank"><img style="margin: 10px 15px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="40" /></a>  
     <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px 15px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="40" /></a>  
     <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px 15px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" /></a>  
@@ -46,6 +50,7 @@
     <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px 15px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="40" /></a>  
   </div>
 </div>
+
 
 
 <br/>  
