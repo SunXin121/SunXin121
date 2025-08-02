@@ -47,6 +47,13 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SunXin121/SunXin121/output/github-contribution-grid-snake.svg">
 </picture>
 
+## Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=SunXin121&&style=flat-square" align="center" />
 </div>  
+
+
