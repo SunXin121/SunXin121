@@ -8,8 +8,6 @@
 
   <div  align="center>
     <a href="https://blog.csun.site/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-    
-    <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=SunXin121&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
 
