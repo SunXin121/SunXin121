@@ -41,6 +41,12 @@
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SunXin121" /> </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SunXin121/SunXin121/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SunXin121/SunXin121/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SunXin121/SunXin121/output/github-contribution-grid-snake.svg">
+</picture>
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=SunXin121&&style=flat-square" align="center" />
 </div>  
