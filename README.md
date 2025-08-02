@@ -1,8 +1,10 @@
-## Hey 👋, I'm Xin Sun  
-  
+## Hey 👋, I'm Sun Xin  
 
+嗨，你好，我是 Sun Xin，六朝古都研究生在读。
 
-<br/>  
+一枚热爱编程、摄影、读书的 ITer，希望能成为一名优秀的开发者。
+
+只有走在路上，才能摆脱局限，摆脱执着，让所有的选择、探寻、猜测、想象都生气勃勃。
 
 
 ## Languages and Tools  
@@ -53,19 +55,14 @@
 
 
 
-<br/>  
-
 
 ## Github Stats  
 
 <img src="https://github-readme-stats.vercel.app/api?username=Amon-SUN&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 60%" />
 
 
-
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Amon-Sun&&style=flat-square)  
-  
 
-<br/>  
 
