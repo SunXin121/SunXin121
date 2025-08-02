@@ -6,8 +6,13 @@
 
 只有走在路上，才能摆脱局限，摆脱执着，让所有的选择、探寻、猜测、想象都生气勃勃。
 
+  <div  align="center>
+    <a href="https://blog.csun.site/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
+    
+    <!-- visitor -->
+    <img src="https://komarev.com/ghpvc/?username=SunXin121&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+  </div>
 
-<br/>  
 
 
 ## My Skill Set  
@@ -80,10 +85,4 @@
 - [零拷贝实现高效文件传输](https://blog.csun.site/posts/e35084/)
 - [Java 的三种代理模式：静态代理，动态代理，CGLIB 代理](https://blog.csun.site/posts/fe240431/)
 <!-- BLOG-POST-LIST:END -->
-
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=SunXin121&&style=flat-square" align="center" />
-</div>  
-
 
