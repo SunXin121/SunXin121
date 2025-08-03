@@ -77,10 +77,10 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [vercel 部署 Hexo 时安装 pandoc](https://blog.csun.site/posts/undefined/)
+- [Github 主页美化](https://blog.csun.site/posts/a6bf2993/)
+- [vercel 部署 Hexo 时安装 pandoc](https://blog.csun.site/posts/f32a0a90/)
 - [Linux统计文件夹下的文件数目](https://blog.csun.site/posts/70dd18f1/)
 - [Win 下使用 Git 自动同步笔记](https://blog.csun.site/posts/f0e8b173/)
 - [零拷贝实现高效文件传输](https://blog.csun.site/posts/e35084/)
-- [Java 的三种代理模式：静态代理，动态代理，CGLIB 代理](https://blog.csun.site/posts/fe240431/)
 <!-- BLOG-POST-LIST:END -->
 
