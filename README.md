@@ -77,10 +77,10 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [公式识别神器 —— Pot QwenOCR 插件](https://blog.csun.site/posts/fa62fba8/)
 - [配置 SSH 密钥登录](https://blog.csun.site/posts/e9da0b0f/)
 - [Github 主页美化](https://blog.csun.site/posts/a6bf2993/)
 - [vercel 部署 Hexo 时安装 pandoc](https://blog.csun.site/posts/f32a0a90/)
 - [Linux统计文件夹下的文件数目](https://blog.csun.site/posts/70dd18f1/)
-- [Win 下使用 Git 自动同步笔记](https://blog.csun.site/posts/f0e8b173/)
 <!-- BLOG-POST-LIST:END -->
 
