@@ -77,10 +77,10 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Redis 怎么模糊查询](https://blog.csun.site/posts/9a2f1b7c/)
 - [枚举的本质](https://blog.csun.site/posts/7751c2c4/)
 - [继承中的类加载、对象创建、方法调用和变量访问的过程](https://blog.csun.site/posts/f838dce0/)
 - [为什么 switch 语句效率比 if-else 语句高](https://blog.csun.site/posts/afafdaf3/)
 - [公式识别神器 —— Pot QwenOCR 插件](https://blog.csun.site/posts/fa62fba8/)
-- [配置 SSH 密钥登录](https://blog.csun.site/posts/e9da0b0f/)
 <!-- BLOG-POST-LIST:END -->
 
