@@ -77,10 +77,10 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [剖析 HashMap](https://blog.csun.site/posts/7da719ef/)
 - [剖析 ArrayDeque](https://blog.csun.site/posts/758999f3/)
 - [剖析 LinkedList](https://blog.csun.site/posts/67b6cd29/)
 - [剖析 ArrayList](https://blog.csun.site/posts/65cf9c1e/)
 - [Redis 怎么模糊查询](https://blog.csun.site/posts/9a2f1b7c/)
-- [枚举的本质](https://blog.csun.site/posts/7751c2c4/)
 <!-- BLOG-POST-LIST:END -->
 
