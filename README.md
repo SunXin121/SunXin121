@@ -77,10 +77,10 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [剖析 HashMap](https://blog.csun.site/posts/7da719ef/)
-- [剖析 ArrayDeque](https://blog.csun.site/posts/758999f3/)
-- [剖析 LinkedList](https://blog.csun.site/posts/67b6cd29/)
-- [剖析 ArrayList](https://blog.csun.site/posts/65cf9c1e/)
-- [Redis 怎么模糊查询](https://blog.csun.site/posts/9a2f1b7c/)
+- [深入理解 ThreadLocal](https://blog.csun.site/blog/2025-10-10-deep-understanding-of-threadlocal)
+- [剖析 HashMap](https://blog.csun.site/blog/2025-09-23-analysis-hashmap)
+- [剖析 ArrayDeque](https://blog.csun.site/blog/2025-09-22-analysis-arraydeque)
+- [剖析 LinkedList](https://blog.csun.site/blog/2025-09-21-analysis-linkedlist)
+- [剖析 ArrayList](https://blog.csun.site/blog/2025-09-17-analysis-arraylist)
 <!-- BLOG-POST-LIST:END -->
 
