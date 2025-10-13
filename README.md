@@ -77,10 +77,10 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [二叉树的几种遍历方式](https://blog.csun.site/blog/2025-10-13-types-of-binary-tree-traversal)
 - [深入理解 ThreadLocal](https://blog.csun.site/blog/2025-10-10-deep-understanding-of-threadlocal)
 - [剖析 HashMap](https://blog.csun.site/blog/2025-09-23-analysis-hashmap)
 - [剖析 ArrayDeque](https://blog.csun.site/blog/2025-09-22-analysis-arraydeque)
 - [剖析 LinkedList](https://blog.csun.site/blog/2025-09-21-analysis-linkedlist)
-- [剖析 ArrayList](https://blog.csun.site/blog/2025-09-17-analysis-arraylist)
 <!-- BLOG-POST-LIST:END -->
 
