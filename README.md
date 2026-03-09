@@ -77,10 +77,10 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [单例模式的几种写法](https://blog.csun.site/blog/2026-01-12-singleton-pattern)
 - [打家劫舍问题](https://blog.csun.site/blog/2025-12-03-house-robber)
 - [并查集](https://blog.csun.site/blog/2025-11-20-unionfind)
 - [Java 字符串常量池详解](https://blog.csun.site/blog/2025-11-18-stringtable)
 - [一文玩转 Stream API](https://blog.csun.site/blog/2025-11-10-streamapi)
-- [CopyOnWrite：写时复制机制详解](https://blog.csun.site/blog/2025-10-28-copyonwrite)
 <!-- BLOG-POST-LIST:END -->
 
